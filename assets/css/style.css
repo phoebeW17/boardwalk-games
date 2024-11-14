@@ -134,6 +134,13 @@ h2 {
     background-color: transparent;
 }
 
+/*Events Section*/
+
+.student-discount {
+    background-color: var(--highlight-color);
+    color: white;
+}
+
 /* grid visualisation CSS for testing
 
 .container,
